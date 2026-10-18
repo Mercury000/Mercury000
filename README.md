@@ -118,9 +118,3 @@ If it looks fun, I build it — if it breaks, I blame the vibes and try again.
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mercury000/Mercury000/main/assets/divider-dark.svg">
   <img alt="divider" src="https://raw.githubusercontent.com/Mercury000/Mercury000/main/assets/divider-light.svg" width="100%">
 </picture>
-
-<div align="center">
-
-`© 2026 MERCURY` `FIRMWARE V1.0` `POWERED BY PIXELS` `PRESS START ▮`
-
-</div>
