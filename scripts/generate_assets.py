@@ -185,9 +185,9 @@ def banner(theme):
         rect(64, 54, 124, 40, fill="none", rx=4, stroke=p["green"], sw=3),
         rect(82, 68, 12, 12, fill=p["green"], cls="blink"),
         pixel_text("ONLINE", 104, 67, 2, p["green"]),
-        pixel_text("MERCURY000", 64, 127, 9, p["cyan"]),
-        pixel_text("MERCURY000", 73, 118, 9, p["pink"]),
-        pixel_text("MERCURY000", 64, 118, 9, p["ink"]),
+        pixel_text("MERCURY", 64, 127, 9, p["cyan"]),
+        pixel_text("MERCURY", 73, 118, 9, p["pink"]),
+        pixel_text("MERCURY", 64, 118, 9, p["ink"]),
     ]
     tx = 64
     for run, color in (("VIBE CODER", p["ink"]), ("//", p["muted"]), ("STUDENT", p["muted"])):
@@ -202,7 +202,9 @@ def banner(theme):
     parts.append(rect(1012, 104, 17, 20, fill=SPRITE_INK))
     parts.append(rect(1063, 104, 17, 20, fill=SPRITE_INK))
     parts.append(rect(1017, 162, 57, 11, fill=SPRITE_INK))
-    parts.append(pixel_text("MERCURY000", 987, 210, 2, p["purple"]))
+    cap = "MERCURY"
+    cap_w = text_width(cap, 2)
+    parts.append(pixel_text(cap, 980 + (132 - cap_w) // 2, 210, 2, p["purple"]))
     parts.append(pixel_text("PLAYER 1", 999, 232, 2, p["muted"]))
     parts.append('<g class="twinkle">' + rect(930, 68, 24, 8, fill=p["yellow"]) + rect(938, 60, 8, 24, fill=p["yellow"]) + "</g>")
     parts.append(rect(1146, 146, 8, 8, fill="none", stroke=p["cyan"], sw=2.5, cls="twinkle2"))

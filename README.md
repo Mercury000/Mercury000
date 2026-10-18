@@ -2,17 +2,17 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mercury000/Mercury000/main/assets/banner-dark.svg">
-  <img alt="MERCURY000 · pixel console banner" src="https://raw.githubusercontent.com/Mercury000/Mercury000/main/assets/banner-light.svg" width="100%">
+  <img alt="MERCURY · pixel console banner" src="https://raw.githubusercontent.com/Mercury000/Mercury000/main/assets/banner-light.svg" width="100%">
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=DotGothic16&size=22&pause=1000&color=9B8CFF&center=true&vCenter=true&width=720&height=64&lines=%3E+booting+mercury000_;%3E+role+-%3E+vibe+coder;%3E+status+-%3E+shipping+for+fun;%3E+press+start+to+connect">
-  <img alt="typing intro" src="https://readme-typing-svg.demolab.com?font=DotGothic16&size=22&pause=1000&color=7767E8&center=true&vCenter=true&width=720&height=64&lines=%3E+booting+mercury000_;%3E+role+-%3E+vibe+coder;%3E+status+-%3E+shipping+for+fun;%3E+press+start+to+connect">
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=DotGothic16&size=22&pause=1000&color=9B8CFF&center=true&vCenter=true&width=720&height=64&lines=%3E+booting+mercury_;%3E+role+-%3E+vibe+coder;%3E+status+-%3E+shipping+for+fun;%3E+press+start+to+connect">
+  <img alt="typing intro" src="https://readme-typing-svg.demolab.com?font=DotGothic16&size=22&pause=1000&color=7767E8&center=true&vCenter=true&width=720&height=64&lines=%3E+booting+mercury_;%3E+role+-%3E+vibe+coder;%3E+status+-%3E+shipping+for+fun;%3E+press+start+to+connect">
 </picture>
 
 <br>
 
-[![VISITORS](https://komarev.com/ghpvc/?username=Mercury000&label=VISITORS&color=7767e8&style=flat-square)](https://github.com/Mercury000)
+[![VISITORS](https://visitor-badge.laobi.icu/badge?page_id=Mercury000.Mercury000&left_text=VISITORS&left_color=%23302c4d&right_color=%237767e8)](https://github.com/Mercury000)
 [![FOLLOWERS](https://img.shields.io/github/followers/Mercury000?style=flat-square&label=FOLLOWERS&labelColor=302c4d&color=7767e8&logo=github&logoColor=f7f4ff)](https://github.com/Mercury000?tab=followers)
 
 </div>
@@ -31,9 +31,9 @@
   <img alt="pixel console sprite" src="https://raw.githubusercontent.com/Mercury000/Mercury000/main/assets/sprite-light.svg" width="150">
 </picture>
 
-`> whoami` `MERCURY000` `> status` `● ONLINE`
+`> whoami` `MERCURY` `> status` `● ONLINE`
 
-Hi! I'm **Mercury000** (call me Mercury) — a university student who vibe-codes for fun.<br>
+Hi! I'm **Mercury** — a university student who vibe-codes for fun.<br>
 I like Android modules, tiny tools that fix annoying things, and pixel toys.<br>
 If it looks fun, I build it — if it breaks, I blame the vibes and try again.
 
@@ -121,6 +121,6 @@ If it looks fun, I build it — if it breaks, I blame the vibes and try again.
 
 <div align="center">
 
-`© 2026 MERCURY000` `FIRMWARE V1.0` `POWERED BY PIXELS` `PRESS START ▮`
+`© 2026 MERCURY` `FIRMWARE V1.0` `POWERED BY PIXELS` `PRESS START ▮`
 
 </div>
